@@ -16,9 +16,9 @@ Los visigodos se asentaron principalmente en la zona de la Meseta Norte, especia
 
 ## Construcción y Reutilización de Materiales
 
-Durante esta época, se produce la reutilización de materiales de construcción romanos para construir basílicas, iglesias y otras edificaciones civiles (véase [Arte Visigodo](Arquitectura.md)).
+Durante esta época, se produce la reutilización de materiales de construcción romanos para construir basílicas, iglesias y otras edificaciones civiles (véase Arte visigodo).
 
 ---
 
-> **Referencia:** Parte de esta información está tomada de [National Geographic España](https://www.nationalgeographic.com.es).
+
 
