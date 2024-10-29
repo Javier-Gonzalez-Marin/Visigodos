@@ -1,4 +1,4 @@
-##Testimonios
+## Testimonios
 
 Consta, por testimonios fidedignos de aquella época, la existencia de magníficas iglesias en España, desde los últimos años del siglo VI hasta la invasión sarracena:
 1.	**San Gregorio de Tours (siglo VI)** dice de la iglesia de San Martín de Orense que era cosa admirable, miro opere expedita.
